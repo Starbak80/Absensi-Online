@@ -1,0 +1,6 @@
+{
+  "name": "Rekap Absensi SMK Taruna Bhakti Kadugede",
+  "description": "Sistem Rekapitulasi Absensi Online Guru & Siswa SMK Taruna Bhakti Kadugede dengan Laporan Mingguan, Bulanan, Dashboard Siswa, dan Notifikasi Kehadiran Real-time Orang Tua (Khusus Admin).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
